@@ -1,9 +1,6 @@
 # Command-Line-File-Reader
 This is a part of a challenge to build your own version of the Unix command line tool wc!
-
-
-
-Be sure to check it out by first down loading the files and then setting the location of these files as your enviornment variables in your pc   
+ 
 
 Type xxwc -c {your file name}.txt to count the number of bytes in your specified file  
 
